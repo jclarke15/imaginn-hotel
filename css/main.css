@@ -1,0 +1,177 @@
+[data-magellan-expedition], [data-magellan-expedition-clone]{ 
+
+padding: 0;
+}
+
+body{
+	font-family: 'dosis', sans-serif;
+	font-size: 2.5rem;	
+}
+
+p{
+ 	font-size: 1.5rem;
+}
+.top-bar{
+	color: gray;
+}
+.large-block-grid-3{
+	padding: 1.5rem;
+	margin: 0;
+}
+
+
+.top-bar .name h1 a{
+	font-family: 'Fjalla One';
+}
+
+
+.intro h1{
+	font-family: 'Fjalla One';
+	
+}
+
+
+.intro{
+	text-align: center;
+	/*background-color: lightgray;*/
+	overflow: hidden;
+	padding: 3rem 0;
+}
+
+#Booking h1{
+	font-family: 'Fjalla One';
+}
+
+#Story{
+	border-top: 10px solid #f3ab0b;
+	
+}
+
+#Story h1{
+	font-family: 'Fjalla One';
+	text-align: center;
+
+}
+
+#Story p{
+	text-align: center;
+}
+
+.top-bar{
+	background-color: #f3ab0b;
+}
+
+.top-bar-section{
+	background-color: rgba(0,0,0,.2);
+
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+	background-color: #f3ab0b;
+
+}
+
+.top-bar img{
+	height: 27.5px;
+}
+
+.large-block-grid-3 h1 {
+	font-family: 'Fjalla One';
+}
+
+.Contact h1{
+	font-family: 'Fjalla One';
+}
+
+
+#specifics .panel{
+	background-color: #f3ab0b;
+	border: 0;
+	
+}
+
+#specifics .panel p{
+	color: black;
+	font-family: 'Fjalla One'
+}
+
+#specifics {
+	padding: 1.5rem;
+}
+
+.information{
+	text-align: center;
+	font-family: 'Fjalla One', sans-serif;
+	list-style-type: none;
+	background-color: #f3ab0b;
+	
+}
+
+.square h1{
+	text-align: center;
+}
+
+
+.column1 {
+	padding: 3rem 0;
+}
+
+.secondaryround button{
+	background-color: black;
+}
+
+#myModal{
+	background-color: #f3ab0b;
+	color: white;
+	width: 100%;
+}
+
+.Contact h1{
+	font-family: 'Fjalla One', sans-serif;
+	text-align: center;
+}
+
+#rooms h1{
+	font-family: 'Fjalla One';
+	text-align: center;
+}
+
+.location h1{
+	font-family: 'Fjalla One';
+	text-align: center;
+}
+
+.location img{
+	width: 100%;
+	height: 100%;
+	display: block;
+    margin: 0 auto;
+    padding-bottom: 3rem 0;
+}
+
+#feature{
+	border-bottom: 10px solid #f3ab0b;
+}
+
+
+
+.information h1, h2, h3, h4, h5, h6{
+	font-family: 'Fjalla One'
+}
+/* FOOTER */
+
+.info .item{
+	background-color: black;
+
+}
+
+
+
+.info {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: inline;
+}
+
+
